@@ -1,3 +1,27 @@
 html {
-  background-color: aquamarine;
+  background-color: #F6F6F6;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+  width: 50%;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#working-on {
+  margin: 0 auto;
+  width: 50%;
+} 
+
+#working-on img {
+  max-width: 50vh;
+}
+
+#working-on p {
+  text-align: center;
+  font-size: larger;
 }
